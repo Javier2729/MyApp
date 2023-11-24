@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="aet_buscador">Ingresar palabra</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="Visorweb">Visor</string>
+    <string name="google_maps_api_key">AIzaSyC-oneYkGF7fFMAb-GJ0S-w5hspkz6AbXc</string>
+
+
+</resources>
